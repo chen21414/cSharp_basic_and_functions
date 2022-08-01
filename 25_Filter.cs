@@ -97,7 +97,7 @@ var city = "Bratislava";
 Func<User, bool> livesIn = e => e.City == city;
 // In the predicate, a function which returns a boolean value, 
 // we test all user objects whose City attribute is equal to the city variable.
-// var res = users.Where(livesIn);
+var res = users.Where(livesIn);
 
 foreach (var e in res)
 {

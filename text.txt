@@ -1,0 +1,35 @@
+【C#】3小時初學者教學 ｜Csharp ｜ C# 教學 ｜ C# 入門 | C++++
+https://www.youtube.com/watch?v=T9BeejD3i0g&t=799s
+
+2:15:01
+
+【01_C#入门到精通】新手强烈推荐：C#开发课程，一整套课程
+https://www.bilibili.com/video/BV1FJ411W7e5?spm_id_from=333.337.search-card.all.click
+
+
+Build a Realtime Chat App with .NET Core
+https://www.youtube.com/watch?v=M-kdxIkYOro
+
+
+C# Interview Questions and Answers | Important Csharp Interview Questions | C# Questions
+https://www.youtube.com/watch?v=BKynEBPqiIM
+
+
+How To Get All Items In A C# List
+https://www.c-sharpcorner.com/UploadFile/mahesh/read-a-list-in-C-Sharp/
+
+
+C# filter list
+https://zetcode.com/csharp/filterlist/
+
+
+Calculate sum of all elements of an array in C#
+https://www.techiedelight.com/calculate-sum-elements-array-csharp/
+
+
+C# Back to Basics – Recursion and Recursive Methods
+https://code-maze.com/csharp-basics-recursion/
+
+
+Real-Time Chat | Using React, .Net 5.0 and SignalR
+https://www.youtube.com/watch?v=nEQvA5HfEDE
